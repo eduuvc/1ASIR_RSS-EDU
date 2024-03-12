@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Website RSS</title>
+  <link>http://www.tusitio.com</link>
+  <description>Este es un ejemplo de un feed RSS para tu sitio web</description>
+
+  <item>
+    <title>Artículo Nº1</title>
+    <link>http://www.tusitio.com/blog-entry-1.html</link>
+    <description>El viaje a la luna fue un hito en la historia de la humanidad. Fue un logro que demostró el poder de la ciencia y la tecnología.</description>
+    <pubDate>Tue, 18 Apr 2023 04:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <title>Artículo Nº2</title>
+    <link>http://www.tusitio.com/blog-entry-2.html</link>
+    <description>La inteligencia artificial está cambiando el mundo. Desde los coches autónomos hasta los asistentes virtuales, la IA está en todas partes.</description>
+    <pubDate>Mon, 10 Apr 2023 04:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <title>Artículo Nº3</title>
+    <link>http://www.tusitio.com/blog-entry-3.html</link>
+    <description>El cambio climático es una de las mayores amenazas para nuestro planeta. Es crucial que tomemos medidas para combatirlo.</description>
+    <pubDate>Sun, 02 Apr 2023 04:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <title>Artículo Nº4</title>
+    <link>http://www.tusitio.com/blog-entry-4.html</link>
+    <description>Este es un nuevo artículo sobre la importancia de la educación. ¡Espero que te guste!</description>
+    <pubDate>Tue, 05 Mar 2024 04:00:00 GMT</pubDate>
+  </item>
+
+</channel>
+
+</rss>
